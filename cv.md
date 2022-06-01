@@ -12,6 +12,7 @@
 * I'm learning JS 
 * Agile, Scrum, Kanban 
 * Git 
+* Visual Studio Code 
 * Adobe Illustrator, InDesign, Photoshop
 ***
 My first project: 
