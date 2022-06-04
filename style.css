@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-
 body {
     font-family: Arial;
     font-size: 18px;
@@ -40,7 +39,6 @@ img {
     text-align: justify;
 }
 
-
 .container {
     width: 1140px;
     margin-left: auto;
@@ -65,13 +63,7 @@ img {
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 30px;
-
-
-
-
 }
-
-
 
 .sample {
     float:left;
